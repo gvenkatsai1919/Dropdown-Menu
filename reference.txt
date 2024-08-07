@@ -1,0 +1,9 @@
+FileNames to same
+
+Html --> index.html
+CSS --> style.css
+Java Script --> script.js
+
+platform : VScode
+
+Reference sites : W3schools
